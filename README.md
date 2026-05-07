@@ -4,7 +4,7 @@ I'm a student at UIB with a passion for user-centric digital experiences.
 
 ## 🚀 About Me
 - 🌍 Based in Norway
-- 💻 Check out my [Personal Portfolio](https://isakgraarud.github.io/porfolio/)
+- 💻 Check out my [Personal Portfolio]([https://isakgraarud.github.io/porfolio/](https://isakgraarud.github.io/portfolio/))
 - 🌱 I’m currently on my final year at UIB
 - ⚡ When not in front of the computer, I am interested in road biking, playing padel, and running.
 
