@@ -30,6 +30,7 @@ I'm a student at UIB with a passion for user-centric digital experiences.
 - [Zoombigedon](https://github.com/Isakgraarud/zoombiegeddon)
 - [SpaceJanitor](https://github.com/Isakgraarud/Isakgraarud-SpaceJanitor)
 - [Norheimsposten](https://github.com/Isakgraarud/NorheimspostenV2)
+- [Algorithm-Visualizer](https://github.com/Isakgraarud/Algorithm-Visualizer)
 
 ## 📊 GitHub Stats
 <p align="left">
