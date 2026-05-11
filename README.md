@@ -32,6 +32,8 @@ I'm a student at UIB with a passion for user-centric digital experiences.
 ## 📂 Featured Projects
 *Check out some of my work from my portfolio:*
 
+currently working on https://arabat-io.onrender.com/
+
 - [Zoombigedon](https://github.com/Isakgraarud/zoombiegeddon)
 - [SpaceJanitor](https://github.com/Isakgraarud/Isakgraarud-SpaceJanitor)
 - [Norheimsposten](https://github.com/Isakgraarud/NorheimspostenV2)
