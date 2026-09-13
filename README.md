@@ -1,7 +1,7 @@
 ## About Me
 - Based in Norway
 - Check out my [Personal Portfolio](https://isakgraarud.github.io/portfolio/)
-- I’m currently on my final year at UIB
+- Currently in my final year studying Computer Science at UiB (University of Bergen)
 - When not in front of the computer, I am interested in road biking, playing padel, and running.
 
 ### Frontend
