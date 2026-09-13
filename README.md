@@ -1,14 +1,8 @@
-# Hi there, I'm Isak! 👋
-
-I'm a student at UIB with a passion for user-centric digital experiences.
-
-## 🚀 About Me
-- 🌍 Based in Norway
-- 💻 Check out my [Personal Portfolio](https://isakgraarud.github.io/portfolio/)
-- 🌱 I’m currently on my final year at UIB
-- ⚡ When not in front of the computer, I am interested in road biking, playing padel, and running.
-
-## 🛠 The Tech Stack I Dabble In
+## About Me
+- Based in Norway
+- Check out my [Personal Portfolio](https://isakgraarud.github.io/portfolio/)
+- I’m currently on my final year at UIB
+- When not in front of the computer, I am interested in road biking, playing padel, and running.
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -29,25 +23,14 @@ I'm a student at UIB with a passion for user-centric digital experiences.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📂 Featured Projects
-*Check out some of my work from my portfolio:*
-
-currently working on https://arabat-io.onrender.com/
+## Featured Projects
 
 - [Zoombigedon](https://github.com/Isakgraarud/zoombiegeddon)
 - [SpaceJanitor](https://github.com/Isakgraarud/Isakgraarud-SpaceJanitor)
 - [Norheimsposten](https://github.com/Isakgraarud/NorheimspostenV2)
 - [Algorithm-Visualizer](https://github.com/Isakgraarud/Algorithm-Visualizer)
 
-## 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isakgraarud&layout=compact&langs_count=7&theme=radical" />
-</p>
-
-## 📫 Connect with me
+## Connect with me
 - **LinkedIn:** [/in/isakgraarud](https://linkedin.com/in/your-profile)
-- **Portfolio:** [isakgraarud.github.io/porfolio/](https://isakgraarud.github.io/porfolio/)
+- **Portfolio:** [isakgraarud.com](https://isakgraarud.github.io/porfolio/)
 - **Email:** [Isak.graarud@gmail.com]
-
----
-⭐️ From [Isak Graarud](https://github.com/isakgraarud)
