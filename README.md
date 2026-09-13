@@ -32,5 +32,4 @@
 
 ## Connect with me
 - **LinkedIn:** [/in/isakgraarud](https://linkedin.com/in/your-profile)
-- **Portfolio:** [isakgraarud.com](https://isakgraarud.github.io/porfolio/)
 - **Email:** [Isak.graarud@gmail.com](mailto:isak.graarud@gmail.com)
